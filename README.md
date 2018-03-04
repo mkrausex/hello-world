@@ -1,7 +1,7 @@
 # hello-world
 just playing around
 
-** overview
+* overview
 
 1. first
 2. second
